@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="qpid-jms-client-0.45.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/lib/qpid-jms-client-0.45.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

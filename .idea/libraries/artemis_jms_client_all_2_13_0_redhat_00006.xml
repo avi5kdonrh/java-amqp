@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="artemis-jms-client-all-2.13.0.redhat-00006">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/lib/artemis-jms-client-all-2.13.0.redhat-00006.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
